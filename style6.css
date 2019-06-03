@@ -1,0 +1,59 @@
+body{
+	font-family: Courier;
+}
+.gl-div{
+	height: 800px;
+	width: 500px;
+}
+.flex{
+	display: flex;
+}
+.gl{
+	height: 270px;
+	width: 500px;
+}
+.color10{
+	height: 100px;
+	width: 400px;
+}
+input {
+  width: 300px;
+  height: 40px;
+  padding-left: 10px;
+  border: 2px solid #7BA7AB;
+  border-radius: 5px;
+  outline: none;
+  color: #9E9C9C;
+  margin-left: 10px;
+  margin-top: 15px;
+  text-align: center;
+}
+.p{
+	font-size: 25px;
+	color: grey;
+}
+.p1{
+	font-size: 15px;
+	color: grey;
+	margin-top: 50px;
+}
+.m-l{
+	margin-left: 10px;
+}
+button{
+	padding: 0 20px;
+	height: 35px;
+	color: black;
+	border: none;
+	background-color: #13d37a;
+	border-radius: 5px;
+	margin-left: 10px;
+	transition: .2s;
+	margin-top: 15px;
+	cursor: pointer;
+	color: white;
+	outline: none;
+}
+button:hover{
+	background-color: #0d9958;
+}

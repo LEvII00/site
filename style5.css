@@ -1,0 +1,101 @@
+body{
+	font-family: Courier;
+}
+.gl-div2{
+	height: 1500px;
+    width: 1450px;
+}
+button{
+	padding: 0 20px;
+	height: 55px;
+	color: black;
+	border: none;
+	background-color: #13d37a;
+	border-radius: 5px;
+	margin-left: 25px;
+	transition: .2s;
+	margin-top: 15px;
+	cursor: pointer;
+	color: white;
+	outline: none;
+}
+button:hover{
+	background-color: #0d9958;
+}
+.color6{
+	height: 125px;
+	width: 800px;
+}
+.m-r{
+	margin-right: 40px;
+}
+.m-lb{
+	margin-left: 500px;
+	margin-top: 75px;
+}
+.poloska{
+	width: 1200px;
+	height: 1px;
+	background: grey; 
+	margin-top: 50px;
+}
+p{
+	color: grey;
+	margin-left: 10px;
+}
+.poloska1{
+	height: 1px;
+	background: grey;
+	width: 1450px;
+}
+.logo1{
+	margin-left: 150px;
+	margin-top: 50px;
+	width: 960px;
+	height: 350px;
+}
+.color10{
+	height: 100px;
+	width: 400px;
+}
+h4{
+	font-size: 45px;
+	margin-left: 50px; 
+}
+.zakuska2{
+	height: 500px;
+	width: 1200px;
+}
+.border{
+	border: 1px grey solid;
+	border-radius: 5px;
+}
+.gl-div3{
+	height: 1000px;
+}
+.flex{
+	display: flex;
+}
+.div-zakuski{
+	height: 425px;
+	width: 300px;
+	margin-left: 75px;
+	margin-top: 25px;
+	border-radius: 10px;
+}
+.zakuski{
+	height: 250px;
+	width: 300px;
+	border-radius: 10px;
+}
+.m-l50{
+	font-size: 25px;
+	margin-left: 40px;
+}
+.m-l25{
+	margin-left: 100px;
+}
+.zakuska2{
+	height: 500px;
+	width: 1200px;
+}

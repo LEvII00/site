@@ -1,0 +1,64 @@
+body{
+	font-family: Courier;
+}
+.gl-div{
+	height: 2000px;
+	width: 1000px;
+}
+.font-size{
+	font-size: 45px;
+}
+.flex{
+	display: flex;
+}
+.color{
+	height: 150px;
+	width: 700px;
+}
+button{
+	padding: 0 20px;
+	height: 45px;
+	color: black;
+	border: none;
+	background-color: #13d37a;
+	border-radius: 5px;
+	margin-left: 25px;
+	transition: .2s;
+	margin-top: 15px;
+	cursor: pointer;
+	color: white;
+	outline: none;
+}
+button:hover{
+	background-color: #0d9958;
+}
+.m-t{
+	margin-top: 50px;
+	margin-left: 400px;
+}
+.m-l50{
+	margin-left: 50px;
+}
+.opisanie{
+	height: 2000px;
+	width: 900px;
+}
+.div-p{
+	height: 425px;
+	width: 800px;
+	margin-left: 25px;
+	margin-top: 25px;
+}
+.poloska{
+	height: 1px;
+	background-color: black;
+}
+.m-t50{
+	margin-top: 25px;
+}
+.kart{
+	height: 500px;
+	width: 800px;
+	margin-top: 25px;
+	margin-left: 25px;
+}
